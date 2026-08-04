@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0169-majority-element) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0075-sort-colors) |
 ## Bubble Sort
 |  |
