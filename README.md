@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0283-move-zeroes) |
