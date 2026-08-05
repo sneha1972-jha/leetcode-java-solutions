@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0189-rotate-array) |
+| [0219-contains-duplicate-ii](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0283-move-zeroes) |
 ## Two Pointers
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0219-contains-duplicate-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/3310-remove-methods-from-project) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
