@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0283-move-zeroes) |
+| [0560-subarray-sum-equals-k](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0290-word-pattern) |
+| [0560-subarray-sum-equals-k](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Quicksort
 |  |
 | ------- |
