@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0219-contains-duplicate-ii) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0283-move-zeroes) |
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
