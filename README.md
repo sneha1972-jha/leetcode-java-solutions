@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0454-4sum-ii) |
 | [0525-contiguous-array](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1140-stone-game-ii](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/1140-stone-game-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0930-binary-subarrays-with-sum) |
 ## Floyd's Cycle Finding Algorithm
 |  |
