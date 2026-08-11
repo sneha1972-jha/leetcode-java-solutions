@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1140-stone-game-ii](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/1140-stone-game-ii) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0169-majority-element) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Math
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
