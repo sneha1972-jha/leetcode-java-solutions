@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0704-binary-search) |
 | [0930-binary-subarrays-with-sum](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1140-stone-game-ii](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/1140-stone-game-ii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0704-binary-search) |
 ## Minimax
 |  |
 | ------- |
