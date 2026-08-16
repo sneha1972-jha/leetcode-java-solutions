@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0704-binary-search) |
 | [0930-binary-subarrays-with-sum](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1140-stone-game-ii](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0202-happy-number) |
 | [1140-stone-game-ii](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Hash Table
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0169-majority-element) |
+| [2029-stone-game-ix](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/2029-stone-game-ix) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0011-container-with-most-water) |
+| [2029-stone-game-ix](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/2029-stone-game-ix) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
@@ -177,20 +181,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
