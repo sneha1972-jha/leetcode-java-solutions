@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0283-move-zeroes) |
+| [0844-backspace-string-compare](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0290-word-pattern) |
+| [0844-backspace-string-compare](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0844-backspace-string-compare) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Enumeration
@@ -227,4 +229,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0844-backspace-string-compare) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
