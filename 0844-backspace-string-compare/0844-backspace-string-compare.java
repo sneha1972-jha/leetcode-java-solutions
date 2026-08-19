@@ -1,0 +1,61 @@
+class Solution {
+    public boolean backspaceCompare(String s, String t) {
+
+        int i = s.length() - 1;
+        int j = t.length() - 1;
+
+        while (i >= 0 || j >= 0) {
+
+            int skipS = 0;
+
+            while (i >= 0) {
+                if (s.charAt(i) == '#') {
+                    skipS++;
+                    i--;
+                } 
+                else if (skipS > 0) {
+                    skipS--;
+                    i--;
+                } 
+                else {
+                    break;
+                }
+            }
+
+            int skipT = 0;
+
+            while (j >= 0) {
+                if (t.charAt(j) == '#') {
+                    skipT++;
+                    j--;
+                } 
+                else if (skipT > 0) {
+                    skipT--;
+                    j--;
+                } 
+                else {
+                    break;
+                }
+            }
+
+            // One string has a character, other doesn't
+            if (i < 0 && j >= 0) {
+                return false;
+            }
+
+            if (i >= 0 && j < 0) {
+                return false;
+            }
+
+            // Both have valid characters
+            if (i >= 0 && j >= 0 && s.charAt(i) != t.charAt(j)) {
+                return false;
+            }
+
+            i--;
+            j--;
+        }
+
+        return true;
+    }
+}
