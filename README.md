@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0202-happy-number) |
 | [1140-stone-game-ii](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0290-word-pattern) |
 | [0844-backspace-string-compare](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0844-backspace-string-compare) |
+| [1927-sum-game](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Enumeration
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0011-container-with-most-water) |
+| [1927-sum-game](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/2029-stone-game-ix) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
