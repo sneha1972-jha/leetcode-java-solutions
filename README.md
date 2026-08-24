@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1140-stone-game-ii](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0202-happy-number) |
 | [1140-stone-game-ii](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1140-stone-game-ii](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/1872-stone-game-viii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1140-stone-game-ii](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/1872-stone-game-viii) |
 ## Quicksort
 |  |
 | ------- |
@@ -199,12 +203,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
@@ -212,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
