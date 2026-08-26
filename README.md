@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0202-happy-number) |
 | [1140-stone-game-ii](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/1140-stone-game-ii) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1140-stone-game-ii](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/1140-stone-game-ii) |
@@ -261,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
