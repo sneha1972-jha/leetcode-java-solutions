@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0844-backspace-string-compare) |
 | [1927-sum-game](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Enumeration
 |  |
