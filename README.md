@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0198-house-robber) |
+| [0940-distinct-subsequences-ii](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/1872-stone-game-viii) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0290-word-pattern) |
 | [0844-backspace-string-compare](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0844-backspace-string-compare) |
+| [0940-distinct-subsequences-ii](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sneha1972-jha/leetcode-java-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
